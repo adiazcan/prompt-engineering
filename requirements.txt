@@ -1,0 +1,6 @@
+matplotlib 
+plotly 
+scikit-learn 
+pandas
+openai 
+python-dotenv
